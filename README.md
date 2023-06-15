@@ -1,4 +1,4 @@
-The healthcare sector’s lack of focus on technological innovations has created new opportunities to enhance service
+The healthcare sector’s lack of focus on technological innovations has created new opportunities to enhance service
 robots that can assist patients in dealing with their illnesses and
 providing better solutions. The COVID-19 pandemic has acted as
 a catalyst for developing service robots in the healthcare sector
@@ -10,4 +10,5 @@ attention on higher-priority tasks and creating separation from
 direct exposure to infection. Robots have been used to perform
 tasks that would otherwise put healthcare workers at risk, such
 as delivering medicine, food and supplies to patients in isolation.
-Index Terms—ESP32, L298 motor, healthcare, Service.
+Index Terms—ESP32, L298 motor, healthcare, Service.![Uploading 4.jpg…]()
+
